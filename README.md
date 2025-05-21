@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=curtis&count_private=true&show_icons=true&include_all_commits=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![My GitHub Stats](https://github-readme-stats-eight-eta-43.vercel.app/api?username=curtis&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
 
-[![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=curtis&layout=compact&theme=dark&hide=less,scss)](https://github.com/anuraghazra/github-readme-stats)
+![My Top Languages]([https://github-readme-stats.vercel.app/](https://github-readme-stats-eight-eta-43.vercel.app/)api/top-langs/?username=curtis&layout=compact&theme=dark&hide=less,scss)
 
 <!--
 **curtis/curtis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

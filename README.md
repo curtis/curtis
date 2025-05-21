@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 <a href="https://github.com/curtis">
-  <img height=300 align="center" src="https://github-readme-stats-eight-eta-43.vercel.app/api?username=curtis&count_private=true&show_icons=true&include_all_commits=true&theme=dark&show=reviews,prs_merged,prs_merged_percentage" />
+  <img height=250 align="center" src="https://github-readme-stats-eight-eta-43.vercel.app/api?username=curtis&count_private=true&show_icons=true&include_all_commits=true&theme=dark&show=reviews,prs_merged,prs_merged_percentage" />
 </a>
 <a href="https://github.com/curtis">
-  <img height=300 align="center" src="https://github-readme-stats-eight-eta-43.vercel.app/api/top-langs/?username=curtis&layout=donut&theme=dark&hide=less,scss&size_weight=0&count_weight=1&langs_count=10" />
+  <img height=250 align="center" src="https://github-readme-stats-eight-eta-43.vercel.app/api/top-langs/?username=curtis&layout=donut&theme=dark&hide=less,scss&size_weight=0&count_weight=1&langs_count=10" />
 </a>
 
 <!--
